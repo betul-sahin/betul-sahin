@@ -7,7 +7,7 @@ My profession are computer programmer and computer engineer. I'm interested in s
 - 💬 Ask me about **Java**, **C#** and **SQL**.
 
 
-- 📫 Connect with me: [**Linkedin**](https://www.linkedin.com/in/bet%C3%BCl-%C5%9Fahin-2a97a7193/) [**Medium**](https://betulsahin3387.medium.com/) [**Hackerrank**](https://www.hackerrank.com/betulsahin?hr_r=1)     
+- 📫 Connect with me: [**Linkedin**](https://www.linkedin.com/in/betulsahin/) [**Medium**](https://betulsahinn.medium.com/) [**Hackerrank**](https://www.hackerrank.com/betulsahin?hr_r=1)     
 
 - 🔭 I’m currently working on **Spring Boot**, **Hibernate/JPA**, **PostgreSql**, **Ms Sql**, **ASP .Net MVC**, **Android Native**
 
