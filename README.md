@@ -11,7 +11,7 @@ My profession are computer programmer and computer engineer. I'm interested in s
 
 - 🔭 I’m currently working on **Spring Boot**, **Hibernate/JPA**, **PostgreSql**, **Ms Sql**, **ASP .Net MVC**, **Android Native**
 
-- 🌱 I’m currently learning **Unit Test**, **Docker**, **Microservices**
+- 🌱 I’m currently learning **Docker**, **Microservices**
 
 <!--
 **betul-sahin/betul-sahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
