@@ -15,7 +15,7 @@ My profession are computer engineer. I'm interested in software development.
 
 - 🌱 I’m currently learning **Docker**, **AWS**, **Microservices**   
 
-- ⚡ I will give you a magic: [**Start your day early and write code every routine day.**](https://www.youtube.com/watch?v=aCepG-VIpIU)   
+- ⚡ I will give you and myself a magic: [**Start your day early and write code every routine day.**](https://www.youtube.com/watch?v=aCepG-VIpIU)   
 
 <!--
 **betul-sahin/betul-sahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
