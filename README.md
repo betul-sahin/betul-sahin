@@ -14,8 +14,7 @@ My profession are computer engineer. I'm interested in software development.
 - 🔭 I’m currently working on **Spring Boot**, **Hibernate/JPA**, **PostgreSql**, **Android Native**
 
 - 🌱 I’m currently learning **AWS**, **Microservices**   
-
-- ⚡ I believe that is a magic: [**Start your day early and write code every routine day.**](https://www.youtube.com/watch?v=aCepG-VIpIU)   
+  
 
 <!--
 **betul-sahin/betul-sahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
