@@ -13,7 +13,7 @@ My profession are computer engineer. I'm interested in software development.
 
 - 🔭 I’m currently working on **Spring Boot**, **Hibernate/JPA**, **PostgreSql**, **Android Native**
 
-- 🌱 I’m currently learning **AWS**, **Microservices**   
+- 🌱 I’m currently learning **Microservices**   
   
 
 <!--
