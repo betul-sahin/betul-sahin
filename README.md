@@ -6,7 +6,7 @@ My profession are computer engineer. I'm interested in software development.
 
 
 
-- 💬 Ask me about **Java**, **C#** and **SQL**.
+- 💬 Ask me about **Java**, **Spring Boot** and **SQL**.
 
 
 - 📫 Connect with me: [**Linkedin**](https://www.linkedin.com/in/betulsahin/) [**Medium**](https://betulsahinn.medium.com/) [**Hackerrank**](https://www.hackerrank.com/betulsahin?hr_r=1)     
